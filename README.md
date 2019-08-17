@@ -1,2 +1,3 @@
 # hello-world
-new comer
+Hello everyone!
+I like sports,music and movies!
